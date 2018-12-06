@@ -4,6 +4,7 @@ wekan
 
 
 #### 安装
+centos7.4安装wekan(使用snap)
 
     sudo su
 
